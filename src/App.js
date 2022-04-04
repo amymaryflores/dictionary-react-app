@@ -13,7 +13,7 @@ export default function App() {
                     Coded by 
                    Amy Flores open-sourced on {" "}
                     <a href="https://github.com/amymaryflores/dictionary-react-app" target="_blank" rel="noreferrer"> GitHub</a> and hosted on {" "}
-                    <a href="" target="_blank" rel="noreferrer">Netlify </a>.
+                    <a href="https://gregarious-peony-46461e.netlify.app" target="_blank" rel="noreferrer">Netlify </a>
                 </footer>
             </div>
         </div>

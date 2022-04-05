@@ -7,7 +7,7 @@ export default function App() {
                 <header className="App-header">
                 </header>
                 <main>
-                    <Dictionary defaultKeyword="Batman" />
+                    <Dictionary defaultKeyword="Games" />
                 </main>
                 <footer className="App-footer">
                     Coded by 
